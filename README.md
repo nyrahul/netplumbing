@@ -1,3 +1,3 @@
 # Netplumbing
 
-[Alt test](res/basic-topology.png)
+![Alt test](res/basic-topology.png)
